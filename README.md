@@ -1,1 +1,1 @@
-# FSWD_Theme_switcher_app
+# FSWD-React-Theme-Switcher-App
